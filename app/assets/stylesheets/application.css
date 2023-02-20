@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+.background {
+  background-color: rgb(247, 211, 164);
+}
